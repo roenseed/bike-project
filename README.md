@@ -1,2 +1,2 @@
 # bike_project
-The case study from Google Data Analtic professional Cyclistic bike analysis for marketing
+The case study from Google Data Analtic Professional Cyclistic Bike share analysis for marketing purpose
