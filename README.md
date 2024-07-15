@@ -5,7 +5,7 @@
 **The Case Study from Google Data Analytics Professional Certificate: Cyclistic Bike Share Analysis for Marketing Purposes**
 
 ## ABOUT THE COMPANY
-Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 geotracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.  
+Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 tracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.  
 
 Financial analysts have found that annual members are more profitable than casual riders. Despite the pricing flexibility attracting more customers, the goal is to increase the number of annual members for future growth. Moreno, the Director of Marketing, believes converting casual riders into members is a viable strategy since they are already familiar with Cyclistic.  
 
@@ -18,10 +18,15 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 
 > 1. **Lily Moreno:** The director of marketing and my manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. 
 > 2. **Cyclistic marketing analytics team:** A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy. 
-> 3. **Cyclistic executive team:** A notoriously detail-oriented team which will decide whether to approve the recommended marketing program.
+> 3. **Cyclistic executive team:** A notoriously detail-oriented team that will decide whether to approve the recommended marketing program.
+
+## KEY BUSINESS TASKS
+> 1. How do annual members and casual riders use Cyclistic bikes differently?
+> 2. Why would casual riders buy Cyclistic annual memberships?
+> 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## KEY BUSINESS OBJECTIVES
-1. **Understand Key Insights**: Gain a comprehensive understanding of bike riders' preferences, differentiating between member and casual riders, and analyze the specific needs of each user type for different bike models.
+1. **Understand Key Insights**: Gain a comprehensive understanding of bike riders' preferences, differentiate between member and casual riders, and analyze the specific needs of each user type for different bike models.
 2. **Leverage Growth Profits**: Utilize the insights from financial analysts who emphasize that increasing the number of annual members will significantly boost profitability.
 3. **Critical Marketing Influence Timing**: Identify the optimal times for marketing efforts to effectively influence casual riders to consider annual memberships and to maximize growth in membership numbers.
 4. **Data-Driven Decision Making**: Use key insights from data analysis to secure executive approval for a marketing plan and strategy. Ensure that recommendations are actionable and profitable, backed by thorough database insights.
@@ -34,7 +39,14 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 5. **Recommendation**: Formulating actionable marketing strategies based on data insights to convert casual riders into annual members.
 6. **Presentation**: Preparing a comprehensive presentation to secure executive approval for the proposed marketing strategy.
 
-## TOOLS AND TECHNOLOGIES
+## KEY DATA PROCESSING AND ANALYSIS
+### **Data Collection**: 
+- The public data has been made available by Motivate International Inc. under license: [(Data License Agreement | Divvy Bikes)](https://divvybikes.com/data-license-agreement)
+- The downloaded original dataset from Cyclistic is reliable, accurate, and comprehensive records with complete and unbiased information and it is proven fit for use.
+- To access the original public dataset source [(divvy-tripdata)](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+
+## SIGNIFICANT TOOLS
 - **Python**: For data cleaning, analysis, and visualization.
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib and Seaborn**: For creating visualizations.
