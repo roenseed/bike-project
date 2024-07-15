@@ -4,6 +4,19 @@
 
 **The Case Study from Google Data Analytics Professional Certificate: Cyclistic Bike Share Analysis for Marketing Purposes**
 
+## Table of Contents
+- [About the Company](#about-the-company)
+- [Scenario](#scenario)
+- [Key Stakeholders](#key-stakeholders)
+- [Key Business Tasks](#key-business-tasks)
+- [Key Business Objectives](#key-business-objectives)
+- [Project Structure](#project-structure)
+- [Key Data Processing and Analysis](#key-data-processing-and-analysis)
+- [Data Analysis, Data Visualization, and Key Recommendations](#data-analysis-data-visualization-and-key-recommendations)
+- [Significant Tools](#significant-tools)
+- [Expected Outcomes](#expected-outcomes)
+- [Contributor](#contributor)
+- 
 ## ABOUT THE COMPANY
 Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 tracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.  
 
@@ -72,19 +85,19 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 ### **Data Analysis, Data Visualization, and Key Recommendations** 
 - The detailed data analysis, data visualization, and key recommendations are available in the [Presentation](https://docs.google.com/presentation/d/1RweCTyHVJmDOKCTltEDRNM9NS0aJVja-HP7lH7xn124/edit?usp=sharing)
 
-## SIGNIFICANT TOOLS
+## Significant Tools
 - **Jupyter Notebook using Python3 (ipykernel)**: For data extraction, transformation, and loading (ETL), detailed in the data combining, data cleaning, and data modeling processes.
 - **Pandas**: For data manipulation and analysis.
 - **Power BI**: For creating dashboards.
 - **Tableau**: For data visualization.
 
-## EXOECTED OUTCOMES
+## Expected Outcomes
 - A detailed understanding of the differences between casual riders and annual members.
 - Identification of key factors that influence casual riders to become annual members.
 - Data-driven marketing strategies to increase the number of annual memberships.
 - Professional visualizations and a comprehensive presentation to support the proposed marketing strategies.
 
-## CONTRIBUTOR
+## Contributor
 - **[CHAROEN KASETRUENGPHOL]**: A Data Analyst, responsible for data collection, cleaning, analysis, visualization, and presenting findings.
 
 ---
