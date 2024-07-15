@@ -47,12 +47,25 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 ### **Data Collection** 
 - The public data has been made available by Motivate International Inc. under license: [(Data License Agreement | Divvy Bikes)](https://divvybikes.com/data-license-agreement)
 - The downloaded original dataset from Cyclistic is reliable, accurate, and comprehensive records with complete and unbiased information and it is proven fit for use.
-- To access the original public dataset source [(divvy-tripdata)](https://divvy-tripdata.s3.amazonaws.com/index.html)
-### **Data Cleaning** 
-- The public data has been made available by Motivate International Inc. under license: [(Data License Agreement | Divvy Bikes)](https://divvybikes.com/data-license-agreement)
-- The downloaded original dataset from Cyclistic is reliable, accurate, and comprehensive records with complete and unbiased information and it is proven fit for use.
-- To access the original public dataset source [(divvy-tripdata)](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- To access the original public dataset source from [(divvy-tripdata)](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
+### **Data Cleaning and Modeling** 
+- The preliminary data cleaning step begins with load 12 .csv, each csv represents a one-month dataset of the year 2022, datasets into the Jupyter Notebook with Python3 (ipykernal).
+- The Data Cleaning ensures data accuracy and completeness by handling missing values, duplicates, and inconsistencies
+- Here is my essential data cleaning and modeling process through [Python Script](https://github.com/roenseed/bike-project/blob/main/bike_clean.ipynb)
+
+#### **Example Detailed Steps:**
+1. **Loading Data:**
+   - Import necessary libraries (`pandas`, `os`, etc.).
+   - Load the CSV files into dataframes.
+   ```python
+   import pandas as pd
+   import os
+
+   # Load each month's data
+   jan_data = pd.read_csv('202201-divvy-tripdata.csv')
+   feb_data = pd.read_csv('202202-divvy-tripdata.csv')
+   # Continue for all months...
 
 ## SIGNIFICANT TOOLS
 - **Python**: For data cleaning, analysis, and visualization.
