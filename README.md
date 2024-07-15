@@ -83,11 +83,12 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 
 
 ### **Data Analysis, Data Visualization, and Key Recommendations** 
+![Data Visualization](./images/data_visualization.png)
 - The detailed data analysis, data visualization, and key recommendations are available in the [Presentation](https://docs.google.com/presentation/d/1RweCTyHVJmDOKCTltEDRNM9NS0aJVja-HP7lH7xn124/edit?usp=sharing)
 
 ## Significant Tools
 - **Jupyter Notebook using Python3 (ipykernel)**: For data extraction, transformation, and loading (ETL), detailed in the data combining, data cleaning, and data modeling processes.
-- **Pandas**: For data manipulation and analysis.
+- **Pandas:** Used extensively for data manipulation, including merging, cleaning, and transformation.
 - **Power BI**: For creating dashboards.
 - **Tableau**: For data visualization.
 
@@ -96,6 +97,8 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 - Identification of key factors that influence casual riders to become annual members.
 - Data-driven marketing strategies to increase the number of annual memberships.
 - Professional visualizations and a comprehensive presentation to support the proposed marketing strategies.
+- Actionable Insights: Formulate clear strategies based on data analysis.
+
 
 ## Contributor
 - **[CHAROEN KASETRUENGPHOL]**: A Data Analyst, responsible for data collection, cleaning, analysis, visualization, and presenting findings.
