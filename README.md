@@ -15,7 +15,7 @@ The marketing team needs to understand the differences between casual riders and
 
 ![AI Photo](./Image/ai_gen_2.webp)
 
-#### MARKETING TEAM
+#### Marketing Team
 As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to understand the different usage patterns between casual riders and annual members. The Director of Marketing believes increasing annual memberships is key to Cyclistic's success. Your team will use these insights to design a marketing strategy aimed at converting casual riders into annual members. To gain executive approval, your recommendations must be supported by compelling data insights and professional visualizations.
 
 ## KEY STAKEHOLDERS
