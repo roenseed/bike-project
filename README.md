@@ -15,6 +15,7 @@ The marketing team needs to understand the differences between casual riders and
 
 ![AI Photo](./Image/ai_gen_2.webp)
 
+#### MARKETING TEAM
 As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to understand the different usage patterns between casual riders and annual members. The Director of Marketing believes increasing annual memberships is key to Cyclistic's success. Your team will use these insights to design a marketing strategy aimed at converting casual riders into annual members. To gain executive approval, your recommendations must be supported by compelling data insights and professional visualizations.
 
 ## KEY STAKEHOLDERS
@@ -43,7 +44,11 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 6. **Presentation**: Preparing a comprehensive presentation to secure executive approval for the proposed marketing strategy.
 
 ## KEY DATA PROCESSING AND ANALYSIS
-### **Data Collection**: 
+### **Data Collection** 
+- The public data has been made available by Motivate International Inc. under license: [(Data License Agreement | Divvy Bikes)](https://divvybikes.com/data-license-agreement)
+- The downloaded original dataset from Cyclistic is reliable, accurate, and comprehensive records with complete and unbiased information and it is proven fit for use.
+- To access the original public dataset source [(divvy-tripdata)](https://divvy-tripdata.s3.amazonaws.com/index.html)
+### **Data Cleaning** 
 - The public data has been made available by Motivate International Inc. under license: [(Data License Agreement | Divvy Bikes)](https://divvybikes.com/data-license-agreement)
 - The downloaded original dataset from Cyclistic is reliable, accurate, and comprehensive records with complete and unbiased information and it is proven fit for use.
 - To access the original public dataset source [(divvy-tripdata)](https://divvy-tripdata.s3.amazonaws.com/index.html)
