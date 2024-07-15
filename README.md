@@ -1,4 +1,6 @@
-# **CASE STUDY: CYCLISTIC BIKE-SHARE SCENARIO**
+# **CASE STUDY: CYCLISTIC BIKE-SHARE DATA ANALYSIS PROJECT**
+
+![AI Photo](./Image/ai_gen.webp)
 
 **The Case Study from Google Data Analytics Professional Certificate: Cyclistic Bike Share Analysis for Marketing Purposes**
 
