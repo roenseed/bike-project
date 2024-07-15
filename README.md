@@ -1,6 +1,6 @@
-#**CYCLISTIC BIKE SHARE**
+# **CYCLISTIC BIKE SHARE**
 
-#**The Case Study From Google Data Analtic Professional Cyclistic Bike Share Analysis For Marketing Purpose**
+# **The Case Study From Google Data Analtic Professional Cyclistic Bike Share Analysis For Marketing Purpose**
 
 # **ABOUT THE COMPANY**
 ## Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 geotracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.
