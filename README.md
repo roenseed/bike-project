@@ -1,8 +1,9 @@
-# bike-project
-**The Case Study From Google Data Analtic Professional Cyclistic Bike Share Analysis For Marketing Purpose**
+# **bike-project**
 
-**ABOUT THE COMPANY**
-Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 geotracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.
+#**The Case Study From Google Data Analtic Professional Cyclistic Bike Share Analysis For Marketing Purpose**
+
+# **ABOUT THE COMPANY**
+## Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 geotracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.
 Financial analysts have found that annual members are more profitable than casual riders. Despite the pricing flexibility attracting more customers, the goal is to increase the number of annual members for future growth. Moreno, the Director of Marketing, believes converting casual riders into members is a viable strategy since they are already familiar with Cyclistic.
 The marketing team needs to understand the differences between casual riders and annual members, why casual riders might buy a membership, and how digital media could influence marketing tactics. They aim to analyze historical bike trip data to identify trends and design targeted marketing strategies.
 
