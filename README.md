@@ -1,18 +1,53 @@
-# **CYCLISTIC BIKE SHARE**
+# **CASE STUDY: CYCLISTIC BIKE-SHARE SCENARIO**
 
-# **The Case Study From Google Data Analtic Professional Cyclistic Bike Share Analysis For Marketing Purpose**
+**The Case Study from Google Data Analytics Professional Certificate: Cyclistic Bike Share Analysis for Marketing Purposes**
 
-# **ABOUT THE COMPANY**
-## Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 geotracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.
-Financial analysts have found that annual members are more profitable than casual riders. Despite the pricing flexibility attracting more customers, the goal is to increase the number of annual members for future growth. Moreno, the Director of Marketing, believes converting casual riders into members is a viable strategy since they are already familiar with Cyclistic.
+## ABOUT THE COMPANY
+Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 geotracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.  
+
+Financial analysts have found that annual members are more profitable than casual riders. Despite the pricing flexibility attracting more customers, the goal is to increase the number of annual members for future growth. Moreno, the Director of Marketing, believes converting casual riders into members is a viable strategy since they are already familiar with Cyclistic.  
+
 The marketing team needs to understand the differences between casual riders and annual members, why casual riders might buy a membership, and how digital media could influence marketing tactics. They aim to analyze historical bike trip data to identify trends and design targeted marketing strategies.
 
-SCENARIO
+## SCENARIO
 As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to understand the different usage patterns between casual riders and annual members. The Director of Marketing believes increasing annual memberships is key to Cyclistic's success. Your team will use these insights to design a marketing strategy aimed at converting casual riders into annual members. To gain executive approval, your recommendations must be supported by compelling data insights and professional visualizations.
 
-KEY BUSINESS OBJECTIVES DEFINITION
-UNDERSTAND KEY INSIGHTS: Gain a comprehensive understanding of bike riders' preferences, differentiating between member and casual riders, and analyze the specific needs of each user type for different bike models.
-LEVERAGE GROWTH PROFITS: Utilize the insights from financial analysts who emphasize that increasing the number of annual members will significantly boost profitability.
-CRITICAL MARKETING INFLUENCE TIMING: Identify the optimal times for marketing efforts to effectively influence casual riders to consider annual memberships and to maximize growth in membership numbers.
-DATA-DRIVEN DECISION MAKING: Use key insights from data analysis to secure executive approval for a marketing plan and strategy. Ensure that recommendations are actionable and profitable, backed by thorough database insights.
+## KEY STAKEHOLDERS
 
+> 1. **Lily Moreno:** The director of marketing and my manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program. 
+> 2. **Cyclistic marketing analytics team:** A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy. 
+> 3. **Cyclistic executive team:** A notoriously detail-oriented team which will decide whether to approve the recommended marketing program.
+
+## KEY BUSINESS OBJECTIVES
+1. **Understand Key Insights**: Gain a comprehensive understanding of bike riders' preferences, differentiating between member and casual riders, and analyze the specific needs of each user type for different bike models.
+2. **Leverage Growth Profits**: Utilize the insights from financial analysts who emphasize that increasing the number of annual members will significantly boost profitability.
+3. **Critical Marketing Influence Timing**: Identify the optimal times for marketing efforts to effectively influence casual riders to consider annual memberships and to maximize growth in membership numbers.
+4. **Data-Driven Decision Making**: Use key insights from data analysis to secure executive approval for a marketing plan and strategy. Ensure that recommendations are actionable and profitable, backed by thorough database insights.
+
+## PROJECT STRUCTURE
+1. **Data Collection**: Gathering historical bike trip data from Cyclistic's database.
+2. **Data Cleaning**: Ensuring data accuracy and completeness by handling missing values, duplicates, and inconsistencies.
+3. **Data Analysis**: Performing exploratory data analysis (EDA) to identify trends and patterns in bike usage among casual riders and annual members.
+4. **Visualization**: Creating professional visualizations to effectively communicate findings to stakeholders.
+5. **Recommendation**: Formulating actionable marketing strategies based on data insights to convert casual riders into annual members.
+6. **Presentation**: Preparing a comprehensive presentation to secure executive approval for the proposed marketing strategy.
+
+## TOOLS AND TECHNOLOGIES
+- **Python**: For data cleaning, analysis, and visualization.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib and Seaborn**: For creating visualizations.
+- **SQL**: For querying Cyclistic's database.
+- **Power BI/Tableau**: For creating dashboards and interactive visualizations.
+
+## EXPECTED OUTCOMES
+- A detailed understanding of the differences between casual riders and annual members.
+- Identification of key factors that influence casual riders to become annual members.
+- Data-driven marketing strategies to increase the number of annual memberships.
+- Professional visualizations and a comprehensive presentation to support the proposed marketing strategies.
+
+## CONTRIBUTOR
+- **[CHAROEN KASETRUENGPHOL]**: A Data Analyst, responsible for data collection, cleaning, analysis, visualization, and presenting findings.
+
+---
+
+This project is part of the Google Data Analytics Professional Certificate and aims to provide practical experience in data analysis, visualization, and strategic decision-making based on data insights.
