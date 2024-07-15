@@ -44,15 +44,12 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 6. **Presentation**: Preparing a comprehensive presentation to secure executive approval for the proposed marketing strategy.
 
 ## KEY DATA PROCESSING AND ANALYSIS
-### **Data Collection** 
-- The public data has been made available by Motivate International Inc. under license: [(Data License Agreement | Divvy Bikes)](https://divvybikes.com/data-license-agreement)
-- The downloaded original dataset from Cyclistic is reliable, accurate, and comprehensive records with complete and unbiased information and it is proven fit for use.
-- To access the original public dataset source from [(divvy-tripdata)](https://divvy-tripdata.s3.amazonaws.com/index.html)
+### **Data Collection**
+- The public data has been made available by Motivate International Inc. under license: [Data License Agreement | Divvy Bikes](https://divvybikes.com/data-license-agreement).
+- The downloaded original dataset from Cyclistic is reliable, accurate, and comprehensive, with complete and unbiased information, proven fit for use.
+- To access the original public dataset source, visit: [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
-### **Data Cleaning and Modeling** 
-- The preliminary data cleaning step begins with load 12 .csv, each csv represents a one-month dataset of the year 2022, datasets into the Jupyter Notebook with Python3 (ipykernal).
-- The Data Cleaning ensures data accuracy and completeness by handling missing values, duplicates, and inconsistencies
-- Here is my essential data cleaning and modeling process through [Python Script](https://github.com/roenseed/bike-project/blob/main/bike_clean.ipynb)
+### **Data Cleaning and Modeling**
 
 #### **Example Detailed Steps:**
 1. **Loading Data:**
@@ -66,21 +63,28 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
    jan_data = pd.read_csv('202201-divvy-tripdata.csv')
    feb_data = pd.read_csv('202202-divvy-tripdata.csv')
    # Continue for all months...
+   
+- The preliminary data cleaning step begins with loading 12 CSV files, each representing a one-month dataset of the year 2022, into the Jupyter Notebook using Python3 (ipykernel).
+- Data cleaning ensures data accuracy and completeness by handling missing values, duplicates, and inconsistencies.
+- Here is my essential data cleaning and modeling process: [Python Script](https://github.com/roenseed/bike-project/blob/main/bike_clean.ipynb).
 
-## SIGNIFICANT TOOLS
-- **Python**: For data cleaning, analysis, and visualization.
+
+### **Data Analysis, Data Visualization, and Key Recommendations** 
+- The detailed data analysis, data visualization, and key recommendations are available in the [Presentation](https://docs.google.com/presentation/d/1RweCTyHVJmDOKCTltEDRNM9NS0aJVja-HP7lH7xn124/edit?usp=sharing)
+
+## Significant Tools
+- **Jupyter Notebook using Python3 (ipykernel)**: For data extraction, transformation, and loading (ETL), detailed in the data combining, data cleaning, and data modeling processes.
 - **Pandas**: For data manipulation and analysis.
-- **Matplotlib and Seaborn**: For creating visualizations.
-- **SQL**: For querying Cyclistic's database.
-- **Power BI/Tableau**: For creating dashboards and interactive visualizations.
+- **Power BI**: For creating dashboards.
+- **Tableau**: For data visualization.
 
-## EXPECTED OUTCOMES
+## Expected Outcomes
 - A detailed understanding of the differences between casual riders and annual members.
 - Identification of key factors that influence casual riders to become annual members.
 - Data-driven marketing strategies to increase the number of annual memberships.
 - Professional visualizations and a comprehensive presentation to support the proposed marketing strategies.
 
-## CONTRIBUTOR
+## Contributor
 - **[CHAROEN KASETRUENGPHOL]**: A Data Analyst, responsible for data collection, cleaning, analysis, visualization, and presenting findings.
 
 ---
