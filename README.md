@@ -12,10 +12,11 @@
 - [Key Business Objectives](#key-business-objectives)
 - [Project Structure](#project-structure)
 - [Key Data Processing and Analysis](#key-data-processing-and-analysis)
-- [Data Visualization and Key Takeaway](#data-analysis-data-visualization-and-key-recommendations)
+- [Data Visualization and Key Takeaway](#data-visualization-and-key-takeaway)
 - [Significant Tools](#significant-tools)
 - [Expected Outcomes](#expected-outcomes)
 - [Contributor](#contributor)
+
 
 ## ABOUT THE COMPANY
 Cyclistic launched a bike-share program in 2016, growing to a fleet of 5,824 tracked bikes across 692 stations in Chicago. The bikes can be unlocked from one station and returned to any other. Cyclistic offers flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Casual riders purchase single-ride or full-day passes, while annual memberships are for Cyclistic members.  
@@ -122,7 +123,7 @@ This analysis identifies the most popular bike return stations, helping to infor
 - **Most Returned Station**: The Streeter Dr & Grand Ave station had the highest number of bike returns, with a total of 71,188 returns.
 - **Top Stations for Marketing Focus**: The top four stations collectively had 186,601 bike returns in 2022, providing a substantial target for marketing efforts.
 
-### **Power BI** 
+### **Power BI Dashboard** 
 ![VIZ_7 Photo](./analysis/Bike_dashboard_pages-to-jpg-0001.jpg)
 ***Figure 7***: This Power BI interactive dashboard provides a comprehensive view of key metrics related to bike usage. On a single page, you can explore various aspects such as total rentals, peak usage times, most popular end stations, and user demographics. The dashboard allows for dynamic interaction, enabling users to drill down into specific data points and gain deeper insights into bike-sharing patterns and trends.
 
