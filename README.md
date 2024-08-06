@@ -12,7 +12,7 @@
 - [Key Business Objectives](#key-business-objectives)
 - [Project Structure](#project-structure)
 - [Key Data Processing and Analysis](#key-data-processing-and-analysis)
-- [Data Visualization](#data-analysis-data-visualization-and-key-recommendations)
+- [Data Visualization and Key Takeaway](#data-analysis-data-visualization-and-key-recommendations)
 - [Significant Tools](#significant-tools)
 - [Expected Outcomes](#expected-outcomes)
 - [Contributor](#contributor)
@@ -82,7 +82,7 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 - Here is my essential data cleaning and modeling process: [Python Script](https://github.com/roenseed/bike-project/blob/main/bike_clean.ipynb).
 
 
-## **DATA VISUALIZATION** 
+## **DATA VISUALIZATION AND KEY TAKEAWAY** 
 ![VIZ1 Photo](./analysis/2022_QUARTERLY_RIDER_TRENDS.png)
 ***FIGURE 1: ANALYSIS 2022 QUARTERLY RIDER TRENDS***:
 In 2022, a total of 4,291,961 rider transactions were recorded.
