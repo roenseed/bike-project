@@ -88,16 +88,17 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 ***FIGURE 1: ANALYSIS 2022 QUARTERLY RIDER TRENDS***:
 In 2022, a total of 4,291,961 rider transactions were recorded.
 
-- **Quarters 2 and 3** significantly represent overall users in the year 2022, illustrating peak bike users during these periods followed by key takeaway
 - **Quarter 1**: 9% (379K Transactions)
 - **Quarter 2**: 32% (1.3M Transactions)
 - **Quarter 3**: 41% (1.7M Transactions)
 - **Quarter 4**: 18% (789K Transactions)
 
+Quarters 2 and 3 significantly illustrate all users in the year 2022, showing peak bike user trends during these periods.
+
 ![VIZ2 Photo](./analysis/2022_MONTHLY_RIDER_TRENDS.png)
 ***FIGURE 2: 2022 MONTHLY RIDER TRENDS***:
-The visualization illustrates the strong seasonal trend
-- Bell curve trend visual represents the user by the monthly view with the average line over the year 2022
+The visualization illustrates the strong seasonal trend, the bell curve trend visualization represents monthly user data with an average line, providing a clear view of trends over the year 2022.
+
 - **Higher Rider Counts from May to October**: Monthly rider counts exceeded the average during these months.
 
 ![VIZ3 Photo](./analysis/temp_1.png)
@@ -113,7 +114,7 @@ This analysis presents Casual rider preferences for bike types on a monthly basi
 - **Electric Bike Trends**: From October to December, there was a notable increase in electric bike usage compared to classic bike rides.
 
 ![VIZ5 Photo](./analysis/2022_WEEKLY_TREND_IN_TOTAL_RIDE_LENGTH_(HOURS).png)
-***FIGURE: WEEKDAY RIDER TREND IN RIDE LENGTH (HOURS)***:
+***FIGURE 5: WEEKDAY RIDER TREND IN RIDE LENGTH (HOURS)***:
 The visualization illustrates the trend in ride length hours by weekday dimension.
 - **Weekend Peak**: A clear pattern emerges showing that ride lengths during the weekends are higher than on workdays. This suggests that riders significantly prefer to ride bikes on weekends, possibly due to more free time and leisure activities.
 
@@ -122,6 +123,8 @@ The visualization illustrates the trend in ride length hours by weekday dimensio
 This analysis identifies the most popular bike return stations, helping to inform a focused marketing strategy for 2023.
 - **Most Returned Station**: The Streeter Dr & Grand Ave station had the highest number of bike returns, with a total of 71,188 returns.
 - **Top Stations for Marketing Focus**: The top four stations collectively had 186,601 bike returns in 2022, providing a substantial target for marketing efforts.
+
+Analyzing the trend of the top most returned bike stations enables the marketing team to launch targeted campaigns, ensuring high-quality traffic and optimizing budget allocation for maximum marketing impact via out of home media optimization.
 
 ### **Power BI Dashboard** 
 ![VIZ_7 Photo](./analysis/Bike_dashboard_pages-to-jpg-0001.jpg)
