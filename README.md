@@ -12,7 +12,7 @@
 - [Key Business Objectives](#key-business-objectives)
 - [Project Structure](#project-structure)
 - [Key Data Processing and Analysis](#key-data-processing-and-analysis)
-- [DATA VISUALIZATION](#data-analysis-data-visualization-and-key-recommendations)
+- [Data Visualization](#data-analysis-data-visualization-and-key-recommendations)
 - [Significant Tools](#significant-tools)
 - [Expected Outcomes](#expected-outcomes)
 - [Contributor](#contributor)
