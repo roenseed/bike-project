@@ -84,48 +84,57 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
 
 ## **DATA VISUALIZATION** 
 ![VIZ1 Photo](./analysis/2022_QUARTERLY_RIDER_TRENDS.png)
-***Figure 1: ANALYSIS 2022 QUARTERLY RIDER TRENDS***:
+***FIGURE 1: ANALYSIS 2022 QUARTERLY RIDER TRENDS***:
 In 2022, a total of 4,291,961 rider transactions were recorded.
+
+- **Quarters 2 and 3** significantly represent overall users in the year 2022, illustrating peak bike users during these periods followed by key takeaway
 - **Quarter 1**: 9% (379K Transactions)
 - **Quarter 2**: 32% (1.3M Transactions)
 - **Quarter 3**: 41% (1.7M Transactions)
 - **Quarter 4**: 18% (789K Transactions)
 
 ![VIZ2 Photo](./analysis/2022_MONTHLY_RIDER_TRENDS.png)
-***Figure 2: 2022 MONTHLY RIDER TRENDS***:
+***FIGURE 2: 2022 MONTHLY RIDER TRENDS***:
 The visualization illustrates the strong seasonal trend
+- Bell curve trend visual represents the user by the monthly view with the average line over the year 2022
 - **Higher Rider Counts from May to October**: Monthly rider counts exceeded the average during these months.
 
-![VIZ3 Photo](./analysis/2022_CASUAL_RIDER_BY_RIDEABLE_TYPES.png)
-***Figure 3: 2022 CASUAL RIDER BY RIDEABLE TYPE TRENDS***:
+![VIZ3 Photo](./analysis/temp_1.png)
+***FIGURE 3: ANALYSIS 2022 CHICAGO WEATHER DIMENSION***:
+The visualization illustrates the 2022 Monthly Chicago temperature
+- **Temperature Relevant**: the temperature significantly influenced the bike users in the year 2022, as compared to Figure 2 the pattern is almost the same
+- **Biker Preferences**: The analysis indicates that favorable weather conditions are crucial for bikers in Chicago, with more riders opting to bike during warmer, pleasant weather.
+
+![VIZ4 Photo](./analysis/2022_CASUAL_RIDER_BY_RIDEABLE_TYPES.png)
+***FIGURE 4: 2022 CASUAL RIDER BY RIDEABLE TYPE TRENDS***:
 This analysis presents Casual rider preferences for bike types on a monthly basis and highlights the interesting trends in the increasing use of electric bikes.
 - **Casual Behavior**: Casual rides experienced a significant upward trend from April to July, with a growth of 232% (total growth 215K rides).
 - **Electric Bike Trends**: From October to December, there was a notable increase in electric bike usage compared to classic bike rides.
 
-![VIZ4 Photo](./analysis/2022_WEEKLY_TREND_IN_TOTAL_RIDE_LENGTH_(HOURS).png)
-***Figure 4: WEEKDAY RIDER TREND IN RIDE LENGTH (HOURS)***:
+![VIZ5 Photo](./analysis/2022_WEEKLY_TREND_IN_TOTAL_RIDE_LENGTH_(HOURS).png)
+***FIGURE: WEEKDAY RIDER TREND IN RIDE LENGTH (HOURS)***:
 The visualization illustrates the trend in ride length hours by weekday dimension.
 - **Weekend Peak**: A clear pattern emerges showing that ride lengths during the weekends are higher than on workdays. This suggests that riders significantly prefer to ride bikes on weekends, possibly due to more free time and leisure activities.
 
-![VIZ5 Photo](./analysis/2022_TOP_TEN_MOST_POPULAR_BIKE_RETURNED_STATIONS.png)
-***Figure 5: 2022 TOP TEN MOST POPULAR BIKE RETURN STATIONS***:
+![VIZ6 Photo](./analysis/2022_TOP_TEN_MOST_POPULAR_BIKE_RETURNED_STATIONS.png)
+***FIGURE 6: 2022 TOP TEN MOST POPULAR BIKE RETURN STATIONS***:
 This analysis identifies the most popular bike return stations, helping to inform a focused marketing strategy for 2023.
 - **Most Returned Station**: The Streeter Dr & Grand Ave station had the highest number of bike returns, with a total of 71,188 returns.
 - **Top Stations for Marketing Focus**: The top four stations collectively had 186,601 bike returns in 2022, providing a substantial target for marketing efforts.
 
 ### **Power BI** 
-![VIZ_6 Photo](./analysis/Bike_dashboard_pages-to-jpg-0001.jpg)
-This Power BI interactive dashboard provides a comprehensive view of key metrics related to bike usage. On a single page, you can explore various aspects such as total rentals, peak usage times, most popular end station, and user demographics. The dashboard allows for dynamic interaction, enabling users to drill down into specific data points and gain deeper insights into bike-sharing patterns and trends.
+![VIZ_7 Photo](./analysis/Bike_dashboard_pages-to-jpg-0001.jpg)
+***Figure 7***: This Power BI interactive dashboard provides a comprehensive view of key metrics related to bike usage. On a single page, you can explore various aspects such as total rentals, peak usage times, most popular end stations, and user demographics. The dashboard allows for dynamic interaction, enabling users to drill down into specific data points and gain deeper insights into bike-sharing patterns and trends.
 
 - The more detailed data analysis, data visualization, and key recommendations are available in the following [Presentation Slides](https://docs.google.com/presentation/d/1RweCTyHVJmDOKCTltEDRNM9NS0aJVja-HP7lH7xn124/edit?usp=sharing)
 
-## Significant Tools
+## SIGNIFICANT TOOLS
 - **Jupyter Notebook using Python3 (ipykernel)**: For data extraction, transformation, and loading (ETL), detailed in the data combining, data cleaning, and data modeling processes.
 - **Pandas:** Used extensively for data manipulation, including merging, cleaning, and transformation.
 - **Power BI**: For creating dashboards.
 - **Tableau**: For data visualization.
 
-## Expected Outcomes
+## EXPECTED OUTCOMES
 - A detailed understanding of the differences between casual riders and annual members.
 - Identification of key factors that influence casual riders to become annual members.
 - Data-driven marketing strategies to increase the number of annual memberships.
@@ -133,7 +142,7 @@ This Power BI interactive dashboard provides a comprehensive view of key metrics
 - Actionable Insights: Formulate clear strategies based on data analysis.
 
 
-## Contributor
+## CONTRIBUTOR
 - **[CHAROEN KASETRUENGPHOL]**: A Data Analyst, responsible for data collection, cleaning, analysis, visualization, and presenting findings.
 
 ---
