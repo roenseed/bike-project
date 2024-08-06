@@ -130,7 +130,7 @@ Analyzing the trend of the top most returned bike stations enables the marketing
 ![VIZ_7 Photo](./analysis/Bike_dashboard_pages-to-jpg-0001.jpg)
 ***Figure 7***: This Power BI interactive dashboard provides a comprehensive view of key metrics related to bike usage. On a single page, you can explore various aspects such as total rentals, peak usage times, most popular end stations, and user demographics. The dashboard allows for dynamic interaction, enabling users to drill down into specific data points and gain deeper insights into bike-sharing patterns and trends.
 
-- The more detailed data analysis, data visualization, and key recommendations are available in the following [Presentation Slides](https://docs.google.com/presentation/d/1RweCTyHVJmDOKCTltEDRNM9NS0aJVja-HP7lH7xn124/edit?usp=sharing)
+- The more detailed data analysis, data visualization, and key recommendations are available in the following [Google Slides](https://docs.google.com/presentation/d/1RweCTyHVJmDOKCTltEDRNM9NS0aJVja-HP7lH7xn124/edit?usp=sharing)
 
 ## SIGNIFICANT TOOLS
 - **Jupyter Notebook using Python3 (ipykernel)**: For data extraction, transformation, and loading (ETL), detailed in the data combining, data cleaning, and data modeling processes.
