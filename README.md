@@ -80,7 +80,7 @@ As a junior data analyst in Cyclistic's Marketing Analysis Team, your goal is to
    
 - The preliminary data cleaning step begins with loading 12 CSV files, each representing a one-month dataset of the year 2022, into the Jupyter Notebook using Python3 (ipykernel).
 - Data cleaning ensures data accuracy and completeness by handling missing values, duplicates, and inconsistencies.
-- Here is my essential data cleaning and modeling process: [Python Script](https://github.com/roenseed/bike-project/blob/main/bike_clean.ipynb).
+- Here is my full data cleaning and modeling process: [Python Script](https://github.com/roenseed/bike-project/blob/main/bike_clean.ipynb).
 
 
 ## **DATA VISUALIZATION AND KEY TAKEAWAY** 
