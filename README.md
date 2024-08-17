@@ -147,7 +147,7 @@ Analyzing the trend of the top most returned bike stations enables the marketing
 
 
 ## CONTRIBUTOR
-- **[CHAROEN KASETRUENGPHOL]**: A Data Analyst, responsible for data collection, cleaning, analysis, visualization, and presenting findings.
+- **[Charoen Kasetruengphol]**: A Data Analyst, responsible for data collection, cleaning, analysis, visualization, and presenting findings.
 
 ---
 
