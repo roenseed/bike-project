@@ -147,9 +147,8 @@ Analyzing the trend of the top most returned bike stations enables the marketing
 - Actionable Insights: Formulate clear strategies based on data analysis.
 
 
-## CONTRIBUTOR
-- **[Charoen Kasetruengphol]**: A Data Analyst, responsible for data collection, cleaning, analysis, visualization, and presenting findings.
-
+## AUTHOR
+- **Charoen Kasetruengphol (Roen)**
 ---
 
 This project is part of the Google Data Analytics Professional Certificate and aims to provide practical experience in data analysis, visualization, and strategic decision-making based on data insights.
